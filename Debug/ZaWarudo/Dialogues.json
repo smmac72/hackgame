@@ -1,0 +1,20 @@
+{
+  "dialogues": [
+    {
+      "PersonID": 3,
+      "DialogueID": 0,
+      "PlayerLines": [
+        "Mr.Banks, Regional Manager Maverick here. Got a little problem here.",
+        "Higher-ups asking for the IT team checkup. Need to provide your credentials.",
+        "No need, we have access to your network. Just provide me with your password.",
+        "And your IPv4, just to confirm. Thank you for your cooperation."
+      ],
+      "PersonLines": [
+        "How can I help?",
+        "Sure, will RAdmin suffice?",
+        "All right. Login - internationalbaddie, no spaces. Password - qwerty",
+        "112.24.35.244. I have nothing to hide. Good day to you, Sir."
+      ]
+    }
+  ]
+}

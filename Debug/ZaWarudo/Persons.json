@@ -1,0 +1,89 @@
+{
+    "persons": [
+      {
+        "Age": 43,
+        "BankAccount": {
+          "AccountID": 101,
+          "Money": 19000
+        },
+        "Computer": {
+          "Files": {
+            "rob_number": "from: r.banks@ecorp.com | text: Hello, please contact me via the phone in your free time - 427384",
+            "recruit": "local ip - 192.168.1.25. gotta watch after him, seems pretty suspicious. todo - don't let him escape to our intranet"
+          },
+          "IP": "192.168.1.31",
+          "Network": 1,
+          "bCanBeAccessed": true,
+          "bIsHacked": false
+        },
+        "Faction": 0,
+        "ID": 2,
+        "Name": "Kevin Mitnick",
+        "Phone": {
+          "Number": "88005553535",
+          "bIsCallable": false,
+          "bIsKnown": false,
+          "bWasCalled": false
+        },
+        "Rank": "IT Peace harbringer",
+        "bCanBeTargeted": true
+      },
+      {
+        "Age": 38,
+        "BankAccount": {
+          "AccountID": 102,
+          "Money": 57000
+        },
+        "Computer": {
+          "Files": {
+            "control": "from: f.smith@ecorp.com | text: Confidential, class 3-A. Name is Foren Smith, VP. Dispose of the IT department after Project S is deployed. Please contact our body disposal service."
+          },
+          "IP": "112.24.35.244",
+          "Network": 2,
+          "bCanBeAccessed": true,
+          "bIsHacked": true
+        },
+        "Faction": 0,
+        "ID": 3,
+        "Name": "Rob Banks",
+        "Phone": {
+          "Number": "427384",
+          "bIsCallable": true,
+          "bIsKnown": true,
+          "bWasCalled": false
+        },
+        "Rank": "IT Peace manager",
+        "bCanBeTargeted": true
+      }
+    ],
+    "player": {
+      "Age": -1,
+      "BankAccount": {
+        "AccountID": 100,
+        "Money": 9000
+      },
+      "Computer": {
+        "Files": {
+          "intro": "from: r.banks@ecorp.com | text: Hello and welcome to your new and eternal workplace! Today is your onboarding, please get to know your workplace. You are provided with a universal hack software - works mostly by analyzing port vulnerabilities. Will be contacting you tomorrow. R.Banks."
+        },
+        "IP": "192.168.1.25",
+        "Network": 1,
+        "bCanBeAccessed": true,
+        "bIsHacked": true
+      },
+      "Faction": 0,
+      "ID": 1,
+      "Name": "Player",
+      "Phone": {
+        "Number": "test1",
+        "bIsCallable": false,
+        "bIsKnown": false,
+        "bWasCalled": false
+      },
+      "Rank": "IT Recruit",
+      "ReputationCorpo": 50,
+      "ReputationRebel": 0,
+      "bCanBeTargeted": false
+    }
+  }
+  

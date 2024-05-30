@@ -1,0 +1,18 @@
+C:\Users\smmac\OneDrive\Документы\Visual Studio 2022\prototype\prototype\Engine\Engine.cpp;C:\Users\smmac\OneDrive\Документы\Visual Studio 2022\prototype\prototype\x64\Debug\Engine.obj
+C:\Users\smmac\OneDrive\Документы\Visual Studio 2022\prototype\prototype\Engine\Modules\WIP - AssetInit.cpp;C:\Users\smmac\OneDrive\Документы\Visual Studio 2022\prototype\prototype\x64\Debug\WIP - AssetInit.obj
+C:\Users\smmac\OneDrive\Документы\Visual Studio 2022\prototype\prototype\Engine\Modules\File.cpp;C:\Users\smmac\OneDrive\Документы\Visual Studio 2022\prototype\prototype\x64\Debug\File.obj
+C:\Users\smmac\OneDrive\Документы\Visual Studio 2022\prototype\prototype\Engine\Modules\WIP - IO.cpp;C:\Users\smmac\OneDrive\Документы\Visual Studio 2022\prototype\prototype\x64\Debug\WIP - IO.obj
+C:\Users\smmac\OneDrive\Документы\Visual Studio 2022\prototype\prototype\Engine\Modules\Json.cpp;C:\Users\smmac\OneDrive\Документы\Visual Studio 2022\prototype\prototype\x64\Debug\Json.obj
+C:\Users\smmac\OneDrive\Документы\Visual Studio 2022\prototype\prototype\Engine\Modules\WIP - Log.cpp;C:\Users\smmac\OneDrive\Документы\Visual Studio 2022\prototype\prototype\x64\Debug\WIP - Log.obj
+C:\Users\smmac\OneDrive\Документы\Visual Studio 2022\prototype\prototype\Engine\Modules\Util.cpp;C:\Users\smmac\OneDrive\Документы\Visual Studio 2022\prototype\prototype\x64\Debug\Util.obj
+C:\Users\smmac\OneDrive\Документы\Visual Studio 2022\prototype\prototype\Engine\Modules\WIP - WindowsEvents.cpp;C:\Users\smmac\OneDrive\Документы\Visual Studio 2022\prototype\prototype\x64\Debug\WIP - WindowsEvents.obj
+C:\Users\smmac\OneDrive\Документы\Visual Studio 2022\prototype\prototype\Game\Game.cpp;C:\Users\smmac\OneDrive\Документы\Visual Studio 2022\prototype\prototype\x64\Debug\Game.obj
+C:\Users\smmac\OneDrive\Документы\Visual Studio 2022\prototype\prototype\Game\Modules\private\BankAccount.cpp;C:\Users\smmac\OneDrive\Документы\Visual Studio 2022\prototype\prototype\x64\Debug\BankAccount.obj
+C:\Users\smmac\OneDrive\Документы\Visual Studio 2022\prototype\prototype\Game\Modules\private\Computer.cpp;C:\Users\smmac\OneDrive\Документы\Visual Studio 2022\prototype\prototype\x64\Debug\Computer.obj
+C:\Users\smmac\OneDrive\Документы\Visual Studio 2022\prototype\prototype\Game\Modules\private\Order.cpp;C:\Users\smmac\OneDrive\Документы\Visual Studio 2022\prototype\prototype\x64\Debug\Order.obj
+C:\Users\smmac\OneDrive\Документы\Visual Studio 2022\prototype\prototype\Game\Modules\private\Person.cpp;C:\Users\smmac\OneDrive\Документы\Visual Studio 2022\prototype\prototype\x64\Debug\Person.obj
+C:\Users\smmac\OneDrive\Документы\Visual Studio 2022\prototype\prototype\Game\Modules\private\Phone.cpp;C:\Users\smmac\OneDrive\Документы\Visual Studio 2022\prototype\prototype\x64\Debug\Phone.obj
+C:\Users\smmac\OneDrive\Документы\Visual Studio 2022\prototype\prototype\Game\Modules\private\Player.cpp;C:\Users\smmac\OneDrive\Документы\Visual Studio 2022\prototype\prototype\x64\Debug\Player.obj
+C:\Users\smmac\OneDrive\Документы\Visual Studio 2022\prototype\prototype\Game\Modules\private\SaveData.cpp;C:\Users\smmac\OneDrive\Документы\Visual Studio 2022\prototype\prototype\x64\Debug\SaveData.obj
+C:\Users\smmac\OneDrive\Документы\Visual Studio 2022\prototype\prototype\Game\Modules\private\Window.cpp;C:\Users\smmac\OneDrive\Документы\Visual Studio 2022\prototype\prototype\x64\Debug\Window.obj
+C:\Users\smmac\OneDrive\Документы\Visual Studio 2022\prototype\prototype\main.cpp;C:\Users\smmac\OneDrive\Документы\Visual Studio 2022\prototype\prototype\x64\Debug\main.obj

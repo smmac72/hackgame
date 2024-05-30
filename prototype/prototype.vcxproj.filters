@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Engine">
+      <UniqueIdentifier>{84949ea7-4575-4989-a1d7-06eac59a6b91}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Engine\Modules">
+      <UniqueIdentifier>{a60720ce-7f25-4a32-9323-80bdb7c2b8d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game">
+      <UniqueIdentifier>{97ccf6f9-105b-4c5f-b243-70853254a90d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game\Modules">
+      <UniqueIdentifier>{a597fa20-c1fd-4642-990f-a0f90774b062}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game\Modules\Core">
+      <UniqueIdentifier>{72c6591d-1575-46b3-9437-5cafff260dd9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game\Modules\Gameplay">
+      <UniqueIdentifier>{c5fab418-edd3-4b20-8ff6-7579b5aecfb7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Engine\Modules\rapidjson">
+      <UniqueIdentifier>{7cc397f1-ee38-4701-bce8-1b89fdd858c8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine.cpp">
+      <Filter>Header Files\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="IO.cpp">
+      <Filter>Header Files\Engine\Modules</Filter>
+    </ClCompile>
+    <ClCompile Include="WindowsEvents.cpp">
+      <Filter>Header Files\Engine\Modules</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Header Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Util.cpp">
+      <Filter>Header Files\Engine\Modules</Filter>
+    </ClCompile>
+    <ClCompile Include="Log.cpp">
+      <Filter>Header Files\Engine\Modules</Filter>
+    </ClCompile>
+    <ClCompile Include="AssetInit.cpp">
+      <Filter>Header Files\Engine\Modules</Filter>
+    </ClCompile>
+    <ClCompile Include="File.cpp">
+      <Filter>Header Files\Engine\Modules</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine.h">
+      <Filter>Header Files\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\rapidjson\allocators.h">
+      <Filter>Header Files\Engine\Modules\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\rapidjson\document.h">
+      <Filter>Header Files\Engine\Modules\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\rapidjson\encodedstream.h">
+      <Filter>Header Files\Engine\Modules\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\rapidjson\encodings.h">
+      <Filter>Header Files\Engine\Modules\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\rapidjson\error\en.h">
+      <Filter>Header Files\Engine\Modules\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\rapidjson\error\error.h">
+      <Filter>Header Files\Engine\Modules\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\rapidjson\filereadstream.h">
+      <Filter>Header Files\Engine\Modules\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\rapidjson\filewritestream.h">
+      <Filter>Header Files\Engine\Modules\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\rapidjson\fwd.h">
+      <Filter>Header Files\Engine\Modules\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\rapidjson\internal\biginteger.h">
+      <Filter>Header Files\Engine\Modules\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\rapidjson\internal\diyfp.h">
+      <Filter>Header Files\Engine\Modules\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\rapidjson\internal\dtoa.h">
+      <Filter>Header Files\Engine\Modules\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\rapidjson\internal\ieee754.h">
+      <Filter>Header Files\Engine\Modules\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\rapidjson\internal\itoa.h">
+      <Filter>Header Files\Engine\Modules\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\rapidjson\internal\meta.h">
+      <Filter>Header Files\Engine\Modules\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\rapidjson\internal\pow10.h">
+      <Filter>Header Files\Engine\Modules\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\rapidjson\internal\regex.h">
+      <Filter>Header Files\Engine\Modules\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\rapidjson\internal\stack.h">
+      <Filter>Header Files\Engine\Modules\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\rapidjson\internal\strfunc.h">
+      <Filter>Header Files\Engine\Modules\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\rapidjson\internal\strtod.h">
+      <Filter>Header Files\Engine\Modules\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\rapidjson\internal\swap.h">
+      <Filter>Header Files\Engine\Modules\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\rapidjson\istreamwrapper.h">
+      <Filter>Header Files\Engine\Modules\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\rapidjson\memorybuffer.h">
+      <Filter>Header Files\Engine\Modules\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\rapidjson\memorystream.h">
+      <Filter>Header Files\Engine\Modules\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\rapidjson\msinttypes\inttypes.h">
+      <Filter>Header Files\Engine\Modules\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\rapidjson\msinttypes\stdint.h">
+      <Filter>Header Files\Engine\Modules\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\rapidjson\ostreamwrapper.h">
+      <Filter>Header Files\Engine\Modules\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\rapidjson\pointer.h">
+      <Filter>Header Files\Engine\Modules\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\rapidjson\prettywriter.h">
+      <Filter>Header Files\Engine\Modules\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\rapidjson\rapidjson.h">
+      <Filter>Header Files\Engine\Modules\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\rapidjson\reader.h">
+      <Filter>Header Files\Engine\Modules\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\rapidjson\schema.h">
+      <Filter>Header Files\Engine\Modules\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\rapidjson\stream.h">
+      <Filter>Header Files\Engine\Modules\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\rapidjson\stringbuffer.h">
+      <Filter>Header Files\Engine\Modules\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Downloads\rapidjson\writer.h">
+      <Filter>Header Files\Engine\Modules\rapidjson</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
