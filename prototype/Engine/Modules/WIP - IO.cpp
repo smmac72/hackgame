@@ -7,7 +7,7 @@
 #include <vector>
 #include <iostream>
 
-class IO
+static class IO
 {
 public:
 	void UpdateHeader()

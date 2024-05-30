@@ -1,4 +1,20 @@
-﻿  SaveData.cpp
+﻿  Engine.cpp
+  WIP - AssetInit.cpp
+  File.cpp
+  WIP - IO.cpp
+C:\Users\smmac\OneDrive\Документы\Visual Studio 2022\prototype\prototype\Engine\Modules\WIP - IO.cpp(44,2): warning C4091: 'static ': ignored on left of 'IO' when no variable is declared
+  WIP - Log.cpp
+  Util.cpp
+  WIP - WindowsEvents.cpp
+  Game.cpp
+  BankAccount.cpp
+  Computer.cpp
+  Person.cpp
+C:\Users\smmac\OneDrive\Документы\Visual Studio 2022\prototype\prototype\Game\Modules\private\Person.cpp(115,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\smmac\OneDrive\Документы\Visual Studio 2022\prototype\prototype\Game\Modules\private\Person.cpp(120,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Phone.cpp
+  Player.cpp
+  SaveData.cpp
   Window.cpp
   main.cpp
   Generating Code...
